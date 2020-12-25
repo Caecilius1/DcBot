@@ -1,0 +1,16 @@
+{
+  "name": "jarvis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "deneme.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "author": "Jarvis",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ytdl-core": "^4.2.1"
+  }
+}
